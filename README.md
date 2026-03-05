@@ -21,10 +21,6 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 
 ![Web Security](https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-green?style=for-the-badge)
 
-• AWS Cloud Practitioner  
-• Vulnerability Assessment & Penetration Testing (VAPT)  
-• Web Application Security Testing  
-
 ---
 
 # 🤝 Connect With Me
