@@ -1,6 +1,8 @@
 # 👨‍💻 Udhayakumar P
 Cyber Security | VAPT | Cloud Security | Web Application Security | IoT Security
 
+![Profile Views](https://komarev.com/ghpvc/?username=udhayakumar0307&style=for-the-badge&color=blue)
+
 ---
 
 ## 🧑‍💻 About Me
@@ -8,6 +10,20 @@ Cyber Security | VAPT | Cloud Security | Web Application Security | IoT Security
 Pre-Final Year **B.E – CSE (Cybersecurity)** student at **SSM Institute of Engineering and Technology (SSMIET)** with hands-on learning in **Vulnerability Assessment and Penetration Testing (VAPT)**, threat analysis, and secure system design.
 
 Currently exploring **Cloud Security architectures, Web Application vulnerabilities (OWASP Top 10), and IoT security monitoring** to understand and mitigate real-world cyber threats.
+
+---
+
+# 📚 Current Learning
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws)
+
+![VAPT](https://img.shields.io/badge/VAPT-Penetration%20Testing-red?style=for-the-badge)
+
+![Web Security](https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-green?style=for-the-badge)
+
+• AWS Cloud Practitioner  
+• Vulnerability Assessment & Penetration Testing (VAPT)  
+• Web Application Security Testing  
 
 ---
 
@@ -83,6 +99,38 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 ### 🔹 Fraud Email & SMS Detection
 **Problem:** Phishing emails and scam messages expose users to financial fraud.  
 **Solution:** Developed an **AI-based classification system** that detects phishing messages.
+
+---
+
+# 🧪 Cybersecurity Labs
+
+### TryHackMe
+
+<table>
+<tr>
+<td width="150">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Udhayakumar0307.png" width="130">
+
+</td>
+<td>
+
+Username: **Udhayakumar0307**  
+Rank: **[0x7] ADEPT**  
+Country: 🇮🇳  
+
+Hands-on labs in:
+
+• Penetration Testing  
+• Web Exploitation  
+• Network Security  
+• Red Team Fundamentals  
+
+</td>
+</tr>
+</table>
+
+🔗 https://tryhackme.com/p/Udhayakumar0307
 
 ---
 
