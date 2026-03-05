@@ -31,7 +31,7 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 
 ---
 
-# 🛠️ Development Tools
+# 🛠 Development Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode)
@@ -52,7 +52,7 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 
 ---
 
-# 🖥️ Operating Systems
+# 🖥 Operating Systems
 
 ![Kali Linux](https://img.shields.io/badge/KaliLinux-SecurityTesting-blue?style=for-the-badge&logo=kalilinux)
 ![Parrot OS](https://img.shields.io/badge/ParrotOS-Security-green?style=for-the-badge)
@@ -70,19 +70,19 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 
 ### 🔹 IoT Classroom Incubator System
 **Problem:** Classrooms lack automated monitoring for environmental conditions.  
-**Solution:** Built an **ESP32-based IoT monitoring system** using PIR and DHT22 sensors with a **real-time web dashboard** for remote monitoring and control.
+**Solution:** Built an **ESP32-based IoT monitoring system** using PIR and DHT22 sensors with a **real-time web dashboard**.
 
 ---
 
 ### 🔹 Industrial IoT Cyberattack Monitoring System
 **Problem:** Industrial IoT networks are vulnerable to cyber attacks targeting sensor systems.  
-**Solution:** Designed a **secure IIoT monitoring platform using blockchain and TinyML anomaly detection** to detect attacks and trigger alerts within seconds.
+**Solution:** Designed a **secure IIoT monitoring platform using blockchain and TinyML anomaly detection**.
 
 ---
 
 ### 🔹 Fraud Email & SMS Detection
 **Problem:** Phishing emails and scam messages expose users to financial fraud.  
-**Solution:** Developed an **AI-based classification system** that detects phishing messages and labels them as **Safe, Suspicious, or Malicious**.
+**Solution:** Developed an **AI-based classification system** that detects phishing messages.
 
 ---
 
@@ -97,47 +97,104 @@ SRM Institute of Science and Technology – Vadapalani
 
 ### Certified Cybersecurity Educator Professional (CCEP)
 
-<p align="center">
-<img src="CCEP Certificate.png" width="650">
-</p>
+<table>
+<tr>
+<td width="220">
 
-Issued by **Red Team Leaders – November 2025**
+<img src="CCEP Certificate.png" width="200">
+
+</td>
+<td>
+
+Issued by **Red Team Leaders**  
+Issued: **November 2025**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Palo Alto Networks – Security Operations Fundamentals
 
-<p align="center">
-<img src="Palo Alto Networks Course Certificate of Completion.png" width="650">
-</p>
+<table>
+<tr>
+<td width="220">
+
+<img src="Palo Alto Networks Course Certificate of Completion.png" width="200">
+
+</td>
+<td>
 
 Completed **March 3, 2026**
 
+</td>
+</tr>
+</table>
+
 ---
 
-### AWS Academy Graduate – Generative AI Foundations
+### AWS Academy – Generative AI Foundations
 
-<p align="center">
-<img src="aws-academy-graduate-generative-ai-foundations-trai.png" width="160">
-</p>
+<table>
+<tr>
+<td width="220">
+
+<img src="aws-academy-graduate-generative-ai-foundations-trai.png" width="140">
+
+</td>
+<td>
+
+AWS Academy Graduate – Generative AI Foundations
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Cisco Networking Academy
 
-<p align="center">
+<table>
+<tr>
+<td>
 
 <img src="Intoduction to Cybersecurity.png" width="120">
 
+</td>
+<td>
+
+Introduction to Cybersecurity
+
+</td>
+</tr>
+
+<tr>
+<td>
+
 <img src="Introduction to IoT.png" width="120">
+
+</td>
+<td>
+
+Introduction to Internet of Things
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 <img src="Network Basics.png" width="120">
 
-</p>
+</td>
+<td>
 
-Introduction to Cybersecurity  
-Introduction to Internet of Things  
 Networking Basics
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -153,11 +210,12 @@ SSM Institute of Engineering and Technology
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayakumar0307&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayakumar0307&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
+
 ⭐ Exploring cybersecurity, building secure systems, and continuously learning to defend against modern cyber threats.
