@@ -64,43 +64,63 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 
 ### 🔹 AI Translator
 **Problem:** Language barriers limit communication between users worldwide.  
-**Solution:** Developed a Python-based AI translator using Googletrans API supporting **100+ languages with real-time detection and translation**.
+**Solution:** Developed a Python-based AI translator supporting **100+ languages with real-time detection and translation**.
 
 ---
 
 ### 🔹 IoT Classroom Incubator System
 **Problem:** Classrooms lack automated monitoring for environmental conditions.  
-**Solution:** Built an **ESP32-based IoT monitoring system** using PIR and DHT22 sensors with a **real-time web dashboard** for remote monitoring and control.
+**Solution:** Built an **ESP32-based IoT monitoring system** using PIR and DHT22 sensors with a **real-time web dashboard**.
 
 ---
 
 ### 🔹 Industrial IoT Cyberattack Monitoring System
 **Problem:** Industrial IoT networks are vulnerable to cyber attacks targeting sensor systems.  
-**Solution:** Designed a **secure IIoT monitoring platform using blockchain and TinyML anomaly detection** to detect attacks and trigger alerts within seconds.
+**Solution:** Developed a **secure IIoT monitoring platform using blockchain and TinyML anomaly detection** to detect attacks in real time.
 
 ---
 
 ### 🔹 Fraud Email & SMS Detection
 **Problem:** Phishing emails and scam messages expose users to financial fraud.  
-**Solution:** Developed an **AI-based classification system** that detects phishing messages and labels them as **Safe, Suspicious, or Malicious**.
+**Solution:** Built an **AI-based classification system** that detects phishing messages and labels them as **Safe / Suspicious / Malicious**.
 
 ---
 
-# 🏆 Certifications
+# 🏆 Achievements
 
-![CCEP](https://img.shields.io/badge/CCEP-CertifiedCyberSecurityProfessional-red?style=for-the-badge)
+🥉 **3rd Prize – HackElite Hackathon**  
+SRM Institute of Science and Technology – Vadapalani
 
-Certified Cybersecurity Entry Professional (CCEP)
+---
+
+# 🎖 Certifications
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=for-the-badge&logo=cisco)
+
+Cisco Networking Academy — **Networking Basics**  
+Credential ID: b871690b-4e13-4b5e-8b20-a5ba59811268
+
+---
+
+![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-green?style=for-the-badge&logo=cisco)
+
+Cisco Networking Academy — **Introduction to IoT**  
+Credential ID: 280ac5f2-947e-496e-b987-42ea4f7aef95
+
+---
+
+![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-darkgreen?style=for-the-badge&logo=cisco)
+
+Cisco Networking Academy — **Introduction to Cybersecurity**  
+Credential ID: f6f7dbab-4f87-4585-b1df-e9016a07f3f5
 
 ---
 
 # 📚 Courses
 
-- Cisco Networking Academy — **Introduction to Cybersecurity**
-- Cisco Networking Academy — **Introduction to IoT**
-- HEBSEC Tech — **Network Security & Ethical Hacking**
-- Hackup Technology — **Advanced Cybersecurity Training**
-- Cognifyz Technologies — **Full Stack Web Development Internship**
+• HEBSEC Tech — Network Security & Ethical Hacking  
+• Hackup Technology — Advanced Cybersecurity Training  
+• Cognifyz Technologies — Full Stack Web Development Internship  
 
 ---
 
@@ -114,7 +134,7 @@ SSM Institute of Engineering and Technology
 
 # 📊 GitHub Activity
 
-![Udhayakumar GitHub stats](https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udhayakumar0307&layout=compact&theme=tokyonight)
 
