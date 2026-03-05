@@ -1,21 +1,28 @@
 # 👨‍💻 Udhayakumar P
+
 Cyber Security | VAPT | Cloud Security | Web Application Security | IoT Security
 
 ---
 
 ## 🧑‍💻 About Me
 
-Pre-Final Year **B.E – CSE (Cybersecurity)** student at **SSM Institute of Engineering and Technology (SSMIET)** with hands-on learning in **Vulnerability Assessment and Penetration Testing (VAPT)**, threat analysis, and secure system design.
+Pre-Final Year **B.E – CSE (Cybersecurity)** student at **SSM Institute of Engineering and Technology (SSMIET)**.
 
-Currently exploring **Cloud Security architectures, Web Application vulnerabilities (OWASP Top 10), and IoT security monitoring** to understand and mitigate real-world cyber threats.
+Currently learning and practicing:
+
+• Vulnerability Assessment & Penetration Testing (VAPT)  
+• Cloud Security  
+• Web Application Security (OWASP Top 10)  
+• IoT Security Monitoring  
+• Security Operations & Threat Detection  
 
 ---
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Udhayakumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/udhayakumar0307)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Udhayakumar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/udhayakumar0307)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:udhayakumaruk0307@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:udhayakumaruk0307@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/udhayakumar0307)
 
@@ -23,66 +30,55 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 
 # 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-Web-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
 ---
 
-# 🛠️ Development Tools
+# 🛠 Development Tools
 
-![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green?style=for-the-badge&logo=pycharm)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
 # 🔐 Cyber Security Tools
 
-![Wireshark](https://img.shields.io/badge/Wireshark-NetworkAnalysis-blue?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-PenTesting-darkblue?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-NetworkScanning-green?style=for-the-badge)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-WebSecurity-orange?style=for-the-badge)
-![Snort](https://img.shields.io/badge/Snort-IDS-red?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-VulnerabilityScanner-blue?style=for-the-badge)
-![Maltego](https://img.shields.io/badge/Maltego-OSINT-purple?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-green?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-red?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-blue?style=for-the-badge)
 
 ---
 
-# 🖥️ Operating Systems
+# 🖥 Operating Systems
 
-![Kali Linux](https://img.shields.io/badge/KaliLinux-SecurityTesting-blue?style=for-the-badge&logo=kalilinux)
-![Parrot OS](https://img.shields.io/badge/ParrotOS-Security-green?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-orange?style=for-the-badge&logo=ubuntu)
+![Kali Linux](https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge&logo=kalilinux)
+![Parrot OS](https://img.shields.io/badge/ParrotOS-green?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 
 ---
 
 # 🚀 Projects
 
-### 🔹 AI Translator
-**Problem:** Language barriers limit communication between users worldwide.  
-**Solution:** Developed a Python-based AI translator supporting **100+ languages with real-time detection and translation**.
+### Industrial IoT Cyberattack Monitoring System
+Industrial IoT sensor networks are vulnerable to cyber attacks that manipulate operational data.  
+Developed an **AI + Blockchain based monitoring system** to detect anomalies and cyber attacks in real time.
 
----
+### IoT Classroom Incubator System
+Developed an **ESP32 based IoT monitoring system** using PIR and DHT sensors with a real-time web dashboard.
 
-### 🔹 IoT Classroom Incubator System
-**Problem:** Classrooms lack automated monitoring for environmental conditions.  
-**Solution:** Built an **ESP32-based IoT monitoring system** using PIR and DHT22 sensors with a **real-time web dashboard**.
+### AI Translator
+Built a **Python-based multilingual translation tool** supporting 100+ languages.
 
----
-
-### 🔹 Industrial IoT Cyberattack Monitoring System
-**Problem:** Industrial IoT networks are vulnerable to cyber attacks targeting sensor systems.  
-**Solution:** Developed a **secure IIoT monitoring platform using blockchain and TinyML anomaly detection** to detect attacks in real time.
-
----
-
-### 🔹 Fraud Email & SMS Detection
-**Problem:** Phishing emails and scam messages expose users to financial fraud.  
-**Solution:** Built an **AI-based classification system** that detects phishing messages and labels them as **Safe / Suspicious / Malicious**.
+### Fraud Email & SMS Detection
+Developed an **AI-based phishing detection system** to classify communications as Safe, Suspicious, or Malicious.
 
 ---
 
@@ -95,38 +91,43 @@ SRM Institute of Science and Technology – Vadapalani
 
 # 🎖 Certifications
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=for-the-badge&logo=cisco)
+### Certified Cybersecurity Educator Professional (CCEP)
 
-Cisco Networking Academy — **Networking Basics**  
-Credential ID: b871690b-4e13-4b5e-8b20-a5ba59811268
-
----
-
-![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-green?style=for-the-badge&logo=cisco)
-
-Cisco Networking Academy — **Introduction to IoT**  
-Credential ID: 280ac5f2-947e-496e-b987-42ea4f7aef95
+Red Team Leaders  
+Issued: November 2025
 
 ---
 
-![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-darkgreen?style=for-the-badge&logo=cisco)
+### AWS Academy Graduate
 
-Cisco Networking Academy — **Introduction to Cybersecurity**  
-Credential ID: f6f7dbab-4f87-4585-b1df-e9016a07f3f5
+<img src="aws-academy-graduate-generative-ai-foundations-trai.png" width="140"/>
+
+AWS Academy – Generative AI Foundations
 
 ---
 
-# 📚 Courses
+### Cisco Networking Academy
 
-• HEBSEC Tech — Network Security & Ethical Hacking  
-• Hackup Technology — Advanced Cybersecurity Training  
-• Cognifyz Technologies — Full Stack Web Development Internship  
+<img src="Intoduction to Cybersecurity.png" width="120"/>
+<img src="Introduction to IoT.png" width="120"/>
+<img src="Network Basics.png" width="120"/>
+
+Introduction to Cybersecurity  
+Introduction to Internet of Things  
+Networking Basics  
+
+---
+
+### Palo Alto Networks
+
+Security Operations Fundamentals  
+Completed: March 3, 2026 :contentReference[oaicite:1]{index=1}
 
 ---
 
 # 🎓 Education
 
-**B.E – Computer Science and Engineering (Cybersecurity)**  
+B.E – Computer Science and Engineering (Cybersecurity)  
 SSM Institute of Engineering and Technology  
 2023 – 2027
 
@@ -134,10 +135,10 @@ SSM Institute of Engineering and Technology
 
 # 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udhayakumar0307&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udhayakumar0307&layout=compact&theme=radical)
 
 ---
 
-⭐ *Exploring cybersecurity, building secure systems, and continuously learning to defend against modern cyber threats.*
+⭐ Exploring cybersecurity, building secure systems, and continuously learning to defend against modern cyber threats.
