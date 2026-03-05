@@ -102,31 +102,7 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 
 ### TryHackMe
 
-<table>
-<tr>
-<td width="150">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Udhayakumar0307.png" alt="TryHackMe Badge" width="150"/>
-
-</td>
-<td>
-
-Username: **Udhayakumar0307**  
-Rank: **[0x7] ADEPT**  
-Country: 🇮🇳  
-
-Hands-on labs in:
-
-• Penetration Testing  
-• Web Exploitation  
-• Network Security  
-• Red Team Fundamentals  
-
-</td>
-</tr>
-</table>
-
-🔗 https://tryhackme.com/p/Udhayakumar0307
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Udhayakumar0307-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Udhayakumar0307)
 
 ---
 
