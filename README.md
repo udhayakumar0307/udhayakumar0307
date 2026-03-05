@@ -1,5 +1,9 @@
-## Hi there 👋
+## About Me 
 
+Cyber Security | VAPT | Cloud Security | Web Application Security | IoT Security
+
+Pre-Final Year B.E – CSE (Cybersecurity) student at SSMIET with hands-on learning in vulnerability assessment, penetration testing, and security analysis.
+Currently exploring cloud security architectures, web application vulnerabilities (OWASP Top 10), and IoT security monitoring to understand real-world cyber threats.
 <!--
 **udhayakumar0307/udhayakumar0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
