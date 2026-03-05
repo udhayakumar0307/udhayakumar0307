@@ -250,16 +250,15 @@ SSM Institute of Engineering and Technology
 
 ---
 
-# 📊 GitHub Activity
+## 📈 Contribution Activity
 
-<p align="center">
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udhayakumar0307&theme=tokyo-night)
 
-<img src="https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayakumar0307&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=udhayakumar0307&show_icons=true&theme=tokyonight&count_private=true"/>
 
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=udhayakumar0307&style=for-the-badge&color=blue)
 ---
 
 ⭐ Exploring cybersecurity, building secure systems, and continuously learning to defend against modern cyber threats.
