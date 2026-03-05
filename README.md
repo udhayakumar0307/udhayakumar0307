@@ -260,5 +260,14 @@ SSM Institute of Engineering and Technology
 
 ![Profile Views](https://komarev.com/ghpvc/?username=udhayakumar0307&style=for-the-badge&color=blue)
 ---
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udhayakumar0307&theme=tokyonight&hide_border=false"/>
+</p>
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udhayakumar0307&theme=tokyo-night)
 
 ⭐ Exploring cybersecurity, building secure systems, and continuously learning to defend against modern cyber threats.
