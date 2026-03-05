@@ -106,7 +106,7 @@ Currently exploring **Cloud Security architectures, Web Application vulnerabilit
 <tr>
 <td width="150">
 
-<img src="https://tryhackme.com/img/badges/tryhackme-badge.svg" width="120">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Udhayakumar0307.png" alt="TryHackMe Badge" width="150"/>
 
 </td>
 <td>
